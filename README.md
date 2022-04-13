@@ -7,9 +7,9 @@
   # Web server
   # Air-Gapped Hosts - Calculating IP addresses using IP address using subnet mask size 29
 
-# CONTROLLER PIX FILE PURPOSE
+# CONTROLLER POX FILE PURPOSE
 # Regulates transmission of packets from source node to target node by checking protocol type, mac address, IP address of src and dst.
-# Uses ope flow mod and networking python libraries
+# Uses open flow mod and networking python libraries
 
 # SKELTON FILE PURPOSE
 # Contains the topology required to connect the multi level network
